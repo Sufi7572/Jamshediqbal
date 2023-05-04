@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+!/usr/bin/python2
 
 #coding=utf-8
 
@@ -108,7 +108,7 @@ logo='''
 
 \033[1;94m ┈┈┈▕▕▂╱╲▂▏▏┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈▕▕▂╱╲▂▏▏┈┈┈
 
-\033[1;94m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;94mShabirBaloch.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
+\033[1;94m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈\033[1;94mJamshediqbal.\033[1;91m┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 
 \033[1;96m ┈┈┈┈▕╲▂▂╱▏┈┈┈┈☞☞☞☞☞☞\033[1;91m☜☜☜☜☜┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 
@@ -264,9 +264,9 @@ def menu():
 
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
 
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update B4_BALOCH Tool')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update termux-ki Duniya Tool')
 
-	print (S + '[' + P + '☞3' + S + ']' + S + ' B4_BALOCH WhatsApp Group')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' termux-ki duniya WhatsApp Group')
 
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 
@@ -670,7 +670,7 @@ def pb():
 
 	print(Y+'Total '+G+'OK'+S+'/'+P+'CP'+S+' = '+G+str(len(oks))+S+'/'+R+str(len(cps)))
 
-	print(S+'BlackMafia')     
+	print(S+'SUFI')     
 
 	print
 
